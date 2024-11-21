@@ -1,2 +1,2 @@
-# snake-game
-with vanilla JavaScript
+# Snake Arcade Game
+Build with vanilla JavaScript
